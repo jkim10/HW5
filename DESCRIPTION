@@ -18,4 +18,4 @@ Depends:
     R (>= 2.10)
 imports:
   dplyr
-  purr
+  purrr
